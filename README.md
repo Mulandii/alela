@@ -1,8 +1,8 @@
-<h1 align="center"> This bot was created by ALELA  </h1>.        
+<h1 align="center"> This bot was created by ACE </h1>.        
  
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ALELABOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ACE+TECH;RELEASED+6.6.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ACEBOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ACE+TECH;RELEASED+6.6.2024" alt="Typing SVG" /></a>
   </p>
     # *MADE WITH 🤍 BY ACE*
 <p align="center">
